@@ -1,7 +1,7 @@
 site_name: CompanyGram
 
-site_url: https://oa-formation.github.io/mkdocs_publish/
-repo_url: https://github.com/oa-formation/mkdocs-publish
+site_url: https://vnaxel.github.io/mkdocs_publish/
+repo_url: https://github.com/vnaxel/mkdocs-publish
 repo_name: mkdocs_companygram
 
 theme:
